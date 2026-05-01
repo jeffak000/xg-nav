@@ -1,61 +1,45 @@
-My Server:
-  小鸽志:
-    url: https://www.xiaoge.org
-    desc: 分享折腾的乐趣！
-    icon: https://icon.xiaoge.org/images/website/XiaoGe.png
-  XG-Nav:
-    url: https://nav.xiaoge.de
-    desc: 纯静态导航项目
-    icon: emoji:🧭
-  XG-icons:
-    url: https://icon.xiaoge.org
-    desc: 站长重置的高清图标库
+成都 nas:
+  成都cf加速国外用:
+    url: https://cd.090803.xyz:2096/
+    desc: cf云
+    icon: emoji:🏠
+  成都nas 218:
+    url: http://vikki.myds.me:55086/
+    desc: 群晖
+    icon: emoji:⭐
+  成都QC:
+    url: http://quickconnect.cn/vikki218
+    desc: 直连
     icon: https://favicon.yandex.net/favicon/icon.xiaoge.org
-  VPS 剩余价值:
-    url: https://vps-jsq.xiaoge.de
-    desc: 买卖 VPS 必备
-    icon: emoji:🐔
-  背景移除:
-    url: https://remove-bg.xiaoge.org
-    desc: 智能移除图片背景
-    icon: https://remove-bg.xiaoge.org/favicon.ico
-Blog:
-  DockerApps:
-    url: https://dockerapps.com
-    desc: Docker应用程序集合
+深圳 nas:
+  深圳内网ip:
+    url: http://192.168.31.2:3000/
+    desc: 只能局域网用
     icon: emoji:🐳
-  磕巴白菜:
-    url: https://hi.keba.host/
-    desc: 别管 不听 就是玩
+  深圳QC:
+    url: http://quickconnect.cn/vikki220
+    desc: 直连
     icon: https://icon.xiaoge.org/images/website/keba.png
-  HuanHQ:
-    url: https://www.huanhq.com
-    desc: 技术大佬的blog
-    icon: https://favicon.yandex.net/favicon/www.huanhq.com
-  Cane's Blog:
-    url: https://hicane.com
-    desc: 兴趣是最好的老师。
-    icon: https://favicon.yandex.net/favicon/hicane.com
-  Anyeの小站:
-    url: https://www.anye.xyz
-    desc: Always Nurturing Your Enthusiasm
-    icon: https://favicon.yandex.net/favicon/www.anye.xyz
-MJJ:
-  NodeSeek:
-    url: https://www.nodeseek.com/
-    desc: VPS 相关交流社区
+工具:
+  web收藏夹:
+    url: https://www.nofox.com/104972.u
+    icon: emoji:📚
+  老导航:
+    url: http://vikki.myds.me:888/old/
+    icon: emoji:⚛️
+  微信聊天:
+    url: http://vikki.myds.me:888/000tool/wechat/default.html
+    desc: 聊天记录
     icon: https://favicon.yandex.net/favicon/www.nodeseek.com
-  Hostloc:
-    url: https://hostloc.com/
-    desc: 全球主机交流论坛
-    icon: https://favicon.yandex.net/favicon/hostloc.com
-  lowendtalk:
-    url: https://lowendtalk.com/
-    desc: LET 主机论坛（全球最大）
+  wolai:
+    url: https://www.wolai.com/vikki/oiEMpryq8FQaKLt7iygcwH
+    icon: https://favicon.yandex.net/favicon/www.wolai.com
+  魔兽快捷键:
+    url: http://vikki.myds.me:888/000tool/CustomKeys.txt
     icon: https://favicon.yandex.net/favicon/lowendtalk.com
-  ITDOG:
-    url: https://www.itdog.cn/
-    desc: 在线 Ping 工具
+  ios屏蔽:
+    url: https://d-updater.i4.cn/web/mobileconfig/iOS26.mobileconfig
+    desc: ios屏蔽
     icon: https://icon.xiaoge.org/images/website/itdog.png
   Ping.pe:
     url: https://ping.pe/
@@ -65,15 +49,3 @@ MJJ:
     url: https://iplark.com/
     desc: 查看本机IP
     icon: https://iplark.com/favicon.ico
-  Seek.li:
-    url: https://seek.li/
-    desc: NS 邮箱服务
-    icon: emoji:📧
-  哪吒配置生成:
-    url: https://nzcfg.pages.dev/
-    desc: 在线配置生成
-    icon: https://nezha.wiki/logo.png
-  github:
-    url: https://github.com
-    desc: 全球最大代码托管
-    icon: github.png
