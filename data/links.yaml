@@ -20,6 +20,12 @@
     url: http://quickconnect.cn/vikki220
     desc: 直连
     icon: https://icon.xiaoge.org/images/website/keba.png
+  云便签:
+    url: https://webnote.cc/jinjing@tty123
+    icon: emoji:📝
+  修改文件上传:
+    url: https://github.com/jeffak000/xg-nav/blob/main/data/links.yaml
+    icon: emoji:❤️
 工具:
   web收藏夹:
     url: https://www.nofox.com/104972.u
