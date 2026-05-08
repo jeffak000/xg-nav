@@ -1,7 +1,7 @@
 成都 nas:
   成都cf加速国外用:
     url: https://cd.090803.xyz:2096/
-    desc: cf云0
+    desc: cf云
     icon: emoji:🏠
   成都nas 218:
     url: http://vikki.myds.me:55086/
@@ -22,6 +22,7 @@
     icon: https://icon.xiaoge.org/images/website/keba.png
   云便签:
     url: https://webnote.cc/jinjing@tty123
+    desc: 自动存盘
     icon: emoji:📝
   修改文件上传:
     url: https://github.com/jeffak000/xg-nav/blob/main/data/links.yaml
@@ -33,6 +34,7 @@
   老导航:
     url: http://vikki.myds.me:888/old/
     icon: emoji:⚛️
+  iclound: https://www.icloud.com.cn/iclouddrive/
   微信聊天:
     url: http://vikki.myds.me:888/000tool/wechat/default.html
     desc: 聊天记录
@@ -47,11 +49,13 @@
     url: https://d-updater.i4.cn/web/mobileconfig/iOS26.mobileconfig
     desc: ios屏蔽
     icon: https://icon.xiaoge.org/images/website/itdog.png
-  Ping.pe:
-    url: https://ping.pe/
-    desc: 全球ping测工具
-    icon: emoji:⚡
+idc测试:
+  多地ping: https://antping.com/ping
   IPLark:
     url: https://iplark.com/
     desc: 查看本机IP
     icon: https://iplark.com/favicon.ico
+  Ping.pe:
+    url: https://ping.pe/
+    desc: 全球ping测工具
+    icon: emoji:⚡
