@@ -1,3 +1,19 @@
+导航站点:
+  内网:
+    url: http://192.168.31.2/
+    icon: emoji:✅
+  腾讯云国内:
+    url: https://xg-nav-web-china.zh-cn.edgeone.cool/
+    icon: emoji:🚀
+  腾讯云新加坡:
+    url: http://go.090803.xyz/
+    icon: emoji:⭐
+  美国cf:
+    url: https://web.090803.xyz/
+    icon: emoji:🏠
+  nas本地文件:
+    url: http://vikki.myds.me:888/
+    icon: emoji:🌐
 成都 nas:
   成都cf加速国外用:
     url: https://cd.090803.xyz:2096/
@@ -59,16 +75,3 @@ idc测试:
     url: https://ping.pe/
     desc: 全球ping测工具
     icon: emoji:⚡
-导航站点:
-  腾讯云国内:
-    url: https://xg-nav-web-china.zh-cn.edgeone.cool/
-    icon: emoji:🚀
-  腾讯云新加坡:
-    url: http://go.090803.xyz/
-    icon: emoji:⭐
-  美国cf:
-    url: https://web.090803.xyz/
-    icon: emoji:🏠
-  nas本地文件:
-    url: http://vikki.myds.me:888/
-    icon: emoji:🌐
