@@ -2,8 +2,8 @@
   内网:
     url: http://192.168.31.2/
     icon: emoji:✅
-  腾讯云国内:
-    url: https://xg-nav-web-china.zh-cn.edgeone.cool/
+  腾讯云国内备案:
+    url: https://web.vikkiup.cn/
     icon: emoji:🚀
   腾讯云新加坡:
     url: http://go.090803.xyz/
@@ -14,6 +14,9 @@
   nas本地文件:
     url: http://vikki.myds.me:888/
     icon: emoji:🌐
+  iclound:
+    url: https://www.icloud.com.cn/iclouddrive/
+    icon: emoji:📂
 成都 nas:
   成都cf加速国外用:
     url: https://cd.090803.xyz:2096/
